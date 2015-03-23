@@ -1,0 +1,1 @@
+A precision value should be between >0 and <=1 if entered according to DwC specificiations

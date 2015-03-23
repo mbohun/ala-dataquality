@@ -1,0 +1,1 @@
+Latitude and longitude have been transposed accidently (typically bad database mapping)

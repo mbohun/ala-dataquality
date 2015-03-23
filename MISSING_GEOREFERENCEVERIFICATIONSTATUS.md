@@ -1,0 +1,1 @@
+GeoreferenceVerificationStatus not supplied with the record

@@ -1,0 +1,1 @@
+May indicate the date is only known or recorded to the Month.  Flag if there is no precision data. datePrecision is not a curent DwC field

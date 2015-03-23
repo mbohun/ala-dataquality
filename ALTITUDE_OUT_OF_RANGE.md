@@ -1,0 +1,1 @@
+Altitude greater than 10000m, or less than -100m

@@ -1,0 +1,1 @@
+Coordinates given as 0,0. Typically a result of bad default values for empty database fields

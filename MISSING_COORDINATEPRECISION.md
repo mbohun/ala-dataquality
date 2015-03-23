@@ -1,0 +1,1 @@
+coordinatePrecision not supplied with the record

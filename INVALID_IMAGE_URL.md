@@ -1,0 +1,1 @@
+Image URL is badly formatted. This should be a fully qualified URL to the image file in JPG or PNG format. URLs to HTML pages are deemed invalid.

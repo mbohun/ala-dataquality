@@ -1,0 +1,1 @@
+Is this the date of the event? if so should this be renamed to MISSING\_EVENT\_DATE to reference the DwC term and reduce potential confusion with other date fields?

@@ -1,0 +1,1 @@
+Catches things like rank values or values such as "UNKNOWN"

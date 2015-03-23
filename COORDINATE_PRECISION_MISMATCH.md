@@ -1,0 +1,1 @@
+Coordinate data does not match precision indicated - could be incorrect precision or truncation or rounding of the coordinate data (most likely with trailing zeros)

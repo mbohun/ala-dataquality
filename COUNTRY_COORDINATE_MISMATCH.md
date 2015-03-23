@@ -1,0 +1,1 @@
+Coordinates outside the range for the reported country

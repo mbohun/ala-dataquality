@@ -1,0 +1,1 @@
+The record was georeferenced after recording - not an error but has implications for precision and accuracy.  The amount of time may indicate severity? GeoreferenceDate isn't a current DwC field.

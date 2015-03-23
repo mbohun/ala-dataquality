@@ -1,0 +1,1 @@
+Date precision does not match the data. datePrecision is not a curent DwC field

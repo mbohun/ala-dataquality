@@ -1,0 +1,1 @@
+The collecting event date was given as pre 1700, or is otherwise invalid or unparseable.

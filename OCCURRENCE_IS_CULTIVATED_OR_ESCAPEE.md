@@ -1,0 +1,1 @@
+The occurence is  cultivated or escaped from captivity.

@@ -1,0 +1,3 @@
+The coordinates given are in the centre of the state, indicating they have be generated post collection event, erroneously by software.  MN - should be verified as being an issue (as opposed to genuine record in the centre of the state) by checking the uncertainty is large or the record is imprecise.
+
+Donald notes: Is there a single standard value for which we can invoke the COORDINATES\_CENTRE\_OF\_STATEPROVINCE test?  Won’t different processes give different values for the centre?  Also, is there any way we can handle real records at that point, or do we treat it as a blind spot?
